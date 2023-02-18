@@ -1,0 +1,11 @@
+name: practice_shiny
+title:
+username:
+account: nikitaeasow
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8349555
+bundleId: 6860571
+url: https://nikitaeasow.shinyapps.io/practice_shiny/
+when: 1676705238.50435
+lastSyncTime: 1676705238.50442
